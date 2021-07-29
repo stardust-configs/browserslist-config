@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Shareable Browserslist config",
   "keywords": [
-    "browserslist"
+    "browserslist",
+    "browserslist-config"
   ],
   "homepage": "https://github.com/stardust-configs/browserslist-config#readme",
   "bugs": "https://github.com/stardust-configs/browserslist-config#issues",
