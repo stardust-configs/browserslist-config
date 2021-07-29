@@ -19,12 +19,16 @@
   },
   "scripts": {
     "format": "prettier --write \"./**/*.{js,md}\"",
-    "test": "jest"
+    "test": "jest",
+    "version:major": "standard-version -r major",
+    "version:minor": "standard-version -r minor",
+    "version:patch": "standard-version -r patch"
   },
   "devDependencies": {
     "@stardust-configs/prettier-config": "^0.1.1",
     "browserslist": "^4.16.6",
     "jest": "^27.0.6",
-    "prettier": "^2.3.2"
+    "prettier": "^2.3.2",
+    "standard-version": "^9.3.1"
   }
 }
