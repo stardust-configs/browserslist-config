@@ -9,6 +9,9 @@
   "bugs": "https://github.com/stardust-configs/browserslist-config#issues",
   "license": "MIT",
   "author": "P-Chan",
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
