@@ -15,11 +15,13 @@
     "url": "https://github.com/stardust-configs/browserslist-config.git"
   },
   "scripts": {
-    "format": "prettier --write \"./**/*.{js,md}\""
+    "format": "prettier --write \"./**/*.{js,md}\"",
+    "test": "jest"
   },
   "devDependencies": {
     "@stardust-configs/prettier-config": "^0.1.1",
     "browserslist": "^4.16.6",
+    "jest": "^27.0.6",
     "prettier": "^2.3.2"
   }
 }
