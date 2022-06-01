@@ -30,6 +30,6 @@
     "browserslist": "4.20.3",
     "jest": "28.1.0",
     "prettier": "2.6.2",
-    "standard-version": "9.3.2"
+    "standard-version": "9.5.0"
   }
 }
