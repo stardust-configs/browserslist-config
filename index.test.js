@@ -1,3 +1,5 @@
+import { expect, test } from 'vitest'
+
 const browserslist = require('browserslist')
 
 test('Valid browserslist config', () => {
