@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@stardust-configs/prettier-config": "0.1.1",
-    "browserslist": "4.21.10",
+    "browserslist": "4.22.1",
     "prettier": "3.0.3",
     "standard-version": "9.5.0",
     "vitest": "0.34.5"
