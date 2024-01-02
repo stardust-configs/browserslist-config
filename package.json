@@ -26,7 +26,7 @@
     "version:patch": "standard-version -r patch"
   },
   "devDependencies": {
-    "@stardust-configs/prettier-config": "0.2.0",
+    "@stardust-configs/prettier-config": "0.3.0",
     "browserslist": "4.22.2",
     "prettier": "3.1.1",
     "standard-version": "9.5.0",
